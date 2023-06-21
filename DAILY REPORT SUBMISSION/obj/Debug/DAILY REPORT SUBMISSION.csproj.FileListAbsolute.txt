@@ -1,0 +1,8 @@
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\DAILY REPORT SUBMISSION\bin\Debug\DAILY REPORT SUBMISSION.exe.config
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\DAILY REPORT SUBMISSION\bin\Debug\DAILY REPORT SUBMISSION.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\DAILY REPORT SUBMISSION\bin\Debug\DAILY REPORT SUBMISSION.pdb
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\DAILY REPORT SUBMISSION\obj\Debug\DAILY REPORT SUBMISSION.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\DAILY REPORT SUBMISSION\obj\Debug\DAILY REPORT SUBMISSION.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\DAILY REPORT SUBMISSION\obj\Debug\DAILY REPORT SUBMISSION.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\DAILY REPORT SUBMISSION\obj\Debug\DAILY REPORT SUBMISSION.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\DAILY REPORT SUBMISSION\obj\Debug\DAILY REPORT SUBMISSION.pdb
