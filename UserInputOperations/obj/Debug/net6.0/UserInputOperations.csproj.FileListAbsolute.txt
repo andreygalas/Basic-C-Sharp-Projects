@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserInputOperations\bin\Debug\net6.0\UserInputOperations.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserInputOperations\bin\Debug\net6.0\UserInputOperations.deps.json
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserInputOperations\bin\Debug\net6.0\UserInputOperations.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserInputOperations\bin\Debug\net6.0\UserInputOperations.dll
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserInputOperations\bin\Debug\net6.0\UserInputOperations.pdb
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserInputOperations\obj\Debug\net6.0\UserInputOperations.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserInputOperations\obj\Debug\net6.0\UserInputOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserInputOperations\obj\Debug\net6.0\UserInputOperations.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserInputOperations\obj\Debug\net6.0\UserInputOperations.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserInputOperations\obj\Debug\net6.0\UserInputOperations.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserInputOperations\obj\Debug\net6.0\UserInputOperations.dll
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserInputOperations\obj\Debug\net6.0\refint\UserInputOperations.dll
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserInputOperations\obj\Debug\net6.0\UserInputOperations.pdb
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserInputOperations\obj\Debug\net6.0\UserInputOperations.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserInputOperations\obj\Debug\net6.0\ref\UserInputOperations.dll
