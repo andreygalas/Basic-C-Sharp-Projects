@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\IncomeComparisonProgram\bin\Debug\net6.0\IncomeComparisonProgram.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\IncomeComparisonProgram\bin\Debug\net6.0\IncomeComparisonProgram.deps.json
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\IncomeComparisonProgram\bin\Debug\net6.0\IncomeComparisonProgram.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\IncomeComparisonProgram\bin\Debug\net6.0\IncomeComparisonProgram.dll
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\IncomeComparisonProgram\bin\Debug\net6.0\IncomeComparisonProgram.pdb
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\IncomeComparisonProgram\obj\Debug\net6.0\IncomeComparisonProgram.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\IncomeComparisonProgram\obj\Debug\net6.0\IncomeComparisonProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\IncomeComparisonProgram\obj\Debug\net6.0\IncomeComparisonProgram.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\IncomeComparisonProgram\obj\Debug\net6.0\IncomeComparisonProgram.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\IncomeComparisonProgram\obj\Debug\net6.0\IncomeComparisonProgram.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\IncomeComparisonProgram\obj\Debug\net6.0\IncomeComparisonProgram.dll
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\IncomeComparisonProgram\obj\Debug\net6.0\refint\IncomeComparisonProgram.dll
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\IncomeComparisonProgram\obj\Debug\net6.0\IncomeComparisonProgram.pdb
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\IncomeComparisonProgram\obj\Debug\net6.0\IncomeComparisonProgram.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\IncomeComparisonProgram\obj\Debug\net6.0\ref\IncomeComparisonProgram.dll
