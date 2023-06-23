@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\BOOLEAN_LOGIC\obj\Debug\net6.0\BOOLEAN_LOGIC.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\BOOLEAN_LOGIC\obj\Debug\net6.0\BOOLEAN_LOGIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\BOOLEAN_LOGIC\obj\Debug\net6.0\BOOLEAN_LOGIC.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\BOOLEAN_LOGIC\obj\Debug\net6.0\BOOLEAN_LOGIC.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\BOOLEAN_LOGIC\obj\Debug\net6.0\BOOLEAN_LOGIC.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\BOOLEAN_LOGIC\bin\Debug\net6.0\BOOLEAN_LOGIC.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\BOOLEAN_LOGIC\bin\Debug\net6.0\BOOLEAN_LOGIC.deps.json
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\BOOLEAN_LOGIC\bin\Debug\net6.0\BOOLEAN_LOGIC.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\BOOLEAN_LOGIC\bin\Debug\net6.0\BOOLEAN_LOGIC.dll
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\BOOLEAN_LOGIC\bin\Debug\net6.0\BOOLEAN_LOGIC.pdb
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\BOOLEAN_LOGIC\obj\Debug\net6.0\BOOLEAN_LOGIC.dll
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\BOOLEAN_LOGIC\obj\Debug\net6.0\refint\BOOLEAN_LOGIC.dll
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\BOOLEAN_LOGIC\obj\Debug\net6.0\BOOLEAN_LOGIC.pdb
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\BOOLEAN_LOGIC\obj\Debug\net6.0\BOOLEAN_LOGIC.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\BOOLEAN_LOGIC\obj\Debug\net6.0\ref\BOOLEAN_LOGIC.dll
