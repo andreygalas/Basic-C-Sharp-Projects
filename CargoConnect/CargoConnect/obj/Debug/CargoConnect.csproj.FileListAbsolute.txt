@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\CargoConnect\CargoConnect\bin\Debug\CargoConnect.exe.config
+C:\Users\andre\source\repos\CargoConnect\CargoConnect\bin\Debug\CargoConnect.exe
+C:\Users\andre\source\repos\CargoConnect\CargoConnect\bin\Debug\CargoConnect.pdb
+C:\Users\andre\source\repos\CargoConnect\CargoConnect\obj\Debug\CargoConnect.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\CargoConnect\CargoConnect\obj\Debug\CargoConnect.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\CargoConnect\CargoConnect\obj\Debug\CargoConnect.exe
+C:\Users\andre\source\repos\CargoConnect\CargoConnect\obj\Debug\CargoConnect.pdb
