@@ -1,0 +1,7 @@
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\ArrayIndexViewer\ArrayIndexViewer\obj\Debug\ArrayIndexViewer.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\ArrayIndexViewer\ArrayIndexViewer\obj\Debug\ArrayIndexViewer.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\ArrayIndexViewer\ArrayIndexViewer\bin\Debug\ArrayIndexViewer.exe.config
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\ArrayIndexViewer\ArrayIndexViewer\bin\Debug\ArrayIndexViewer.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\ArrayIndexViewer\ArrayIndexViewer\bin\Debug\ArrayIndexViewer.pdb
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\ArrayIndexViewer\ArrayIndexViewer\obj\Debug\ArrayIndexViewer.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\ArrayIndexViewer\ArrayIndexViewer\obj\Debug\ArrayIndexViewer.pdb
