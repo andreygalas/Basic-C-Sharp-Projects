@@ -1,0 +1,7 @@
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\CONSOLE APP PART SIX\CONSOLE APP PART SIX\obj\Debug\CONSOLE APP PART SIX.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\CONSOLE APP PART SIX\CONSOLE APP PART SIX\obj\Debug\CONSOLE APP PART SIX.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\CONSOLE APP PART SIX\CONSOLE APP PART SIX\bin\Debug\CONSOLE APP PART SIX.exe.config
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\CONSOLE APP PART SIX\CONSOLE APP PART SIX\bin\Debug\CONSOLE APP PART SIX.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\CONSOLE APP PART SIX\CONSOLE APP PART SIX\bin\Debug\CONSOLE APP PART SIX.pdb
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\CONSOLE APP PART SIX\CONSOLE APP PART SIX\obj\Debug\CONSOLE APP PART SIX.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\CONSOLE APP PART SIX\CONSOLE APP PART SIX\obj\Debug\CONSOLE APP PART SIX.pdb
