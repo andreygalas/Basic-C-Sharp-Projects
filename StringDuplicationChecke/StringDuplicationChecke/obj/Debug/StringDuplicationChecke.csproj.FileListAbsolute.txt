@@ -1,0 +1,7 @@
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\StringDuplicationChecke\StringDuplicationChecke\obj\Debug\StringDuplicationChecke.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\StringDuplicationChecke\StringDuplicationChecke\obj\Debug\StringDuplicationChecke.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\StringDuplicationChecke\StringDuplicationChecke\bin\Debug\StringDuplicationChecke.exe.config
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\StringDuplicationChecke\StringDuplicationChecke\bin\Debug\StringDuplicationChecke.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\StringDuplicationChecke\StringDuplicationChecke\bin\Debug\StringDuplicationChecke.pdb
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\StringDuplicationChecke\StringDuplicationChecke\obj\Debug\StringDuplicationChecke.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\StringDuplicationChecke\StringDuplicationChecke\obj\Debug\StringDuplicationChecke.pdb
