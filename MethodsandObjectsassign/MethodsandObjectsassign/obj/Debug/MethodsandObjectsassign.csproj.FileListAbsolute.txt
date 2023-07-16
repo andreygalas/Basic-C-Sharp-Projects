@@ -1,0 +1,7 @@
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\MethodsandObjectsassign\MethodsandObjectsassign\bin\Debug\MethodsandObjectsassign.exe.config
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\MethodsandObjectsassign\MethodsandObjectsassign\bin\Debug\MethodsandObjectsassign.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\MethodsandObjectsassign\MethodsandObjectsassign\bin\Debug\MethodsandObjectsassign.pdb
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\MethodsandObjectsassign\MethodsandObjectsassign\obj\Debug\MethodsandObjectsassign.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\MethodsandObjectsassign\MethodsandObjectsassign\obj\Debug\MethodsandObjectsassign.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\MethodsandObjectsassign\MethodsandObjectsassign\obj\Debug\MethodsandObjectsassign.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\MethodsandObjectsassign\MethodsandObjectsassign\obj\Debug\MethodsandObjectsassign.pdb
