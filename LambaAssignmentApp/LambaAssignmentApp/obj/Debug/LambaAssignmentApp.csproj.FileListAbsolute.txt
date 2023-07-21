@@ -1,0 +1,7 @@
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\LambaAssignmentApp\LambaAssignmentApp\bin\Debug\LambaAssignmentApp.exe.config
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\LambaAssignmentApp\LambaAssignmentApp\bin\Debug\LambaAssignmentApp.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\LambaAssignmentApp\LambaAssignmentApp\bin\Debug\LambaAssignmentApp.pdb
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\LambaAssignmentApp\LambaAssignmentApp\obj\Debug\LambaAssignmentApp.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\LambaAssignmentApp\LambaAssignmentApp\obj\Debug\LambaAssignmentApp.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\LambaAssignmentApp\LambaAssignmentApp\obj\Debug\LambaAssignmentApp.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\LambaAssignmentApp\LambaAssignmentApp\obj\Debug\LambaAssignmentApp.pdb
