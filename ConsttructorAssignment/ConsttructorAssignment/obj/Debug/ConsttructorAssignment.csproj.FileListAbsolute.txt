@@ -1,0 +1,7 @@
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\ConsttructorAssignment\ConsttructorAssignment\bin\Debug\ConsttructorAssignment.exe.config
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\ConsttructorAssignment\ConsttructorAssignment\bin\Debug\ConsttructorAssignment.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\ConsttructorAssignment\ConsttructorAssignment\bin\Debug\ConsttructorAssignment.pdb
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\ConsttructorAssignment\ConsttructorAssignment\obj\Debug\ConsttructorAssignment.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\ConsttructorAssignment\ConsttructorAssignment\obj\Debug\ConsttructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\ConsttructorAssignment\ConsttructorAssignment\obj\Debug\ConsttructorAssignment.exe
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\ConsttructorAssignment\ConsttructorAssignment\obj\Debug\ConsttructorAssignment.pdb
