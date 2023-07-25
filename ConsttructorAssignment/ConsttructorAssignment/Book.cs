@@ -12,11 +12,16 @@ namespace ConsttructorAssignment
         public string Title { get; set; }
         public string Author { get; set; }
 
-        //default constructor 
         public Book()
         {
             this.Title = "Unknown";
             this.Author = "Anonymous";
+        }
+
+        public Book(string title, string author)
+        {
+            this.Title = title;
+            this.Author = author;
         }
     }
 }
