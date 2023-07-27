@@ -10,16 +10,10 @@ namespace ConsttructorAssignment
     {
         static void Main(string[] args)
         {
-            // create a const variable
-            const int myConstVariable = 42;
-            Console.WriteLine("The const variable value is: " + myConstVariable);
+            const string defaultTitle = "Unknown"; //Create a constant
+            var defaultAuthor = "Anonymous"; //Create a string using Var
 
-            //create a variable using the keyword 'var'
-            var myVarVariable = "Hello, world!";
-            Console.WriteLine("The var variable value is: " + myVarVariable);
-
-            //chain two constructors together
-            Book book1 = new Book();
+            Book book1 = new Book(); //Using the default constructor
             Book book2 = new Book("The Great Gatsby", "F. Scott Fitzgerald");
 
             Console.WriteLine("Book 1: " + book1.Title + " by " + book1.Author);
@@ -27,5 +21,20 @@ namespace ConsttructorAssignment
 
             Console.ReadLine();
         }
+    }
+
+     // Chain two constructors together
+     public class Book
+    {
+        public Book() : this("Unknown", "Anonymous") { }
+
+        public Book(string title, string author)
+        {
+            Title = title;
+            Author = author;
+        }
+
+        public string Title { get; private set; }
+        public string Author { get; private set; }
     }
 }
