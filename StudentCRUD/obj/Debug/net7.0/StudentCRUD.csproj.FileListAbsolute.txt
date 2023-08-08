@@ -1,0 +1,5 @@
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\StudentCRUD\obj\Debug\net7.0\StudentCRUD.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\StudentCRUD\obj\Debug\net7.0\StudentCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\StudentCRUD\obj\Debug\net7.0\StudentCRUD.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\StudentCRUD\obj\Debug\net7.0\StudentCRUD.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\StudentCRUD\obj\Debug\net7.0\StudentCRUD.csproj.CoreCompileInputs.cache

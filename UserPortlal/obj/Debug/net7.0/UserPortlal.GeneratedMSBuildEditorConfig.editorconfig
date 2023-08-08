@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UserPortlal
+build_property.RootNamespace = UserPortlal
+build_property.ProjectDir = C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserPortlal\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\andre\OneDrive\Desktop\CodingBoat\Basic-C-Sharp-Projects\UserPortlal
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/Admin/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcQWRtaW5cQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/Admin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/Admin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcQWRtaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/Admin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcQWRtaW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/Insuree/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcSW5zdXJlZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/Insuree/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcSW5zdXJlZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/Insuree/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcSW5zdXJlZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/Insuree/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcSW5zdXJlZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/Insuree/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcSW5zdXJlZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Basic-C-Sharp-Projects-main/Basic-C-Sharp-Projects-main/Basic_C\#_Programs/CarInsurance/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QmFzaWMtQy1TaGFycC1Qcm9qZWN0cy1tYWluXEJhc2ljLUMtU2hhcnAtUHJvamVjdHMtbWFpblxCYXNpY19DI19Qcm9ncmFtc1xDYXJJbnN1cmFuY2VcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andre/OneDrive/Desktop/CodingBoat/Basic-C-Sharp-Projects/UserPortlal/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-blqfql0znw
